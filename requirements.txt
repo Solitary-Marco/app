@@ -1,8 +1,5 @@
 streamlit
-fastapi[all]
 openai
-python-dotenv
-pydantic==1.*
 langchain
 faiss-cpu
 tiktoken
