@@ -8,4 +8,3 @@ docx2txt
 langchain_community
 langchain_openai
  ZhipuAI
-langchain_community.document_loader
